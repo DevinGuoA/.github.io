@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Page of Devin Guo"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
